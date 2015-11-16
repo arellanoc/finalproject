@@ -8,9 +8,9 @@ Expand on the readme questions below to provide an overview of the goals, backgr
 
 ## Introduction
 
-This is a final project for the [Interacting with Data](https://github.com/Brown-BIOL2430-S04-Fall2015/syllabus) seminar in fall 2015. This project (a very brief, ie 1-2 sentence, overview of the project)...
+This is a final project for the [Interacting with Data](https://github.com/Brown-BIOL2430-S04-Fall2015/syllabus) seminar in fall 2015. This project stems from my goal to create an animation using 3D coordinates of bony landmarks that are captured using motion capture as well as visualizing the ground reaction forces that recorded using an instrumented treadmill. 
 
-To view this project, ... (embed visualization here or provide instructions on how to view the project).
+To view this project, ... (embed visualization here or provide instructions on how to view the project). Visualization, or my attempts at it, is still underway.
 
 ## The data
 
