@@ -18,8 +18,9 @@ Description of data...
 
 - Data source (unpublished)
 
-Arellano, C. J., & Kram, R. (2014). The metabolic cost of human running: is swinging the arms worth it? The Journal of Experimental Biology, 217(Pt 14), 2456–2461. http://doi.org/10.1242/jeb.100420 
-//CHANGE THIS CHRIS
+Arellano, CJ, Beale MT, & Kram, R. Arm swing during human walking: Active and passive contributions to a hybrid system (in revision and to be resubmitted for publication)
+
+This project was part of my PhD dissertation which I conducted at the University of Colorado Boulder.
 
 - Data structure
 
